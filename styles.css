@@ -1,0 +1,31 @@
+
+
+.city{
+    display: block;
+    text-align: center;
+    width: 450px;
+    font-family: Arial;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 42px;
+    width: 225px;
+    background-color: #1D3557;
+    border-radius: 10px;
+    padding-top: 5px;
+    font-size: 32px;
+    margin-top: 119px;
+    margin-bottom: 11px;
+}
+
+.bg-img{
+    width: 720px;
+    height: 343px;
+}
+
